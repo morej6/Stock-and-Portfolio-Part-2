@@ -1,0 +1,5 @@
+﻿  Stock.cpp
+  Portfolio.cpp
+c:\users\juan moreno\documents\visual studio 2015\data struct project\portfolioandstock\portfolioandstock\portfolio.cpp(32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  PortfolioAndStock.vcxproj -> C:\Users\Juan Moreno\Documents\Visual Studio 2015\Data Struct Project\PortfolioAndStock\Debug\PortfolioAndStock.lib
